@@ -1,16 +1,23 @@
-## Hi there 👋
+# VAHAPROD
+### Креатив · Продакшн · Digital
 
-<!--
-**kr3ta/kr3ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VAHAPROD — медиа-агентство полного цикла. Здесь собраны цифровые проекты и материалы, связанные с развитием бренда и онлайн-присутствия агентства.
 
-Here are some ideas to get you started:
+[Открыть сайт](https://vahaprod.netlify.app/) · [Исходники сайта](https://github.com/kr3ta/vahaprod-site)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Направления
+
+- Продюсирование и создание контента
+- Реклама, PR и медиапланирование
+- SMM и развитие сообществ
+- Видео- и аудиопродакшн
+- Собственные медиа и бренд-проекты
+
+## Избранный проект
+
+**Сайт VAHAPROD** — адаптивная презентация агентства, услуг и кейсов.  
+Статический сайт на HTML и CSS, опубликован на Netlify.
+
+## Контакты
+
+Для проектов и сотрудничества — через [сайт VAHAPROD](https://vahaprod.netlify.app/#contacts).
